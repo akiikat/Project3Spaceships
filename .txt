@@ -1,0 +1,7 @@
+Enterprise Picard 100 10 250
+Voyager Janeway 100 8 200
+Sisko Defiant 80 10 25
+Alyx Koogan 20 600 200 
+Kruise Kyle 100 10 150 
+Keke Arlo 60 400 200 200
+SSKATIE KEVIN 1 500 9001 
